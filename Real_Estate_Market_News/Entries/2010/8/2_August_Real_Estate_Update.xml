@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:52 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;August Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="2_August_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, August 2, 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>August Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Denver Neighborhood&#x2019;s 6 Month Report&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&#xD;Overall, the good news this year is that generally speaking, Denver is clearly pulling out of the housing slump earlier than many other cities. &#xA0;As were one of the first cities in the recession due to our higher foreclosure rates, we are seemingly going to be one of the first ones out. &#xD;&#xD;So far this year we&#x2019;ve seen more homes sold in most of the major Denver neighborhoods than this time last year. &#xA0;The only neighborhoods that saw fewer home sales than last year were City Park South, Congress Park, Crestmoor, Harvard Park, Hilltop and Southern Hills. &#xA0;Everywhere else saw large increases in homes sold- for example, Potter Highlands had 17 homes sold between January -June in 2009. &#xA0;This year, they had 32. &#xA0;Bonnie Brae had 37 sold in that time, this year they had 50.&#xD;&#xD;The other metric I look at is the average price per square foot. &#xA0;In total for Denver neighborhoods across the board, last year we saw an average of $263/sq. ft. &#xA0;This year, its up to $265/sq/ ft. &#xA0;Some neighborhoods did exceptionally well, including Whittier which rose from $200 to $239 per square foot and Crestmoor which rose from $219 to $265. &#xA0;For a full report on your neighborhood, please see the image below.&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&lt;b&gt;Tip for 1st time Buyers:&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&#xD;If you have generous parents that would be willing to co-sign on a loan, than you&#x2019;re in luck~ if all you have is a good credit rating, but you&#x2019;re worried that your finances won&#x2019;t be enough to qualifiy for a good loan, than your parent&#x2019;s may be able to help you out. &#xA0;It&#x2019;s certainly worth entertaining the thought as this is clearly one of the best times to &#xA0;invest in real estate!&#xD;&#xD;&lt;b&gt;Re-Financing&lt;/b&gt;&lt;b&gt;&#xD;&lt;/b&gt;&#xD;I don&#x2019;t make to make blanket statements about anything in real estate, but I feel compelled to strongly encourage everyone out there- if the loan on your house is more than about 6%, than go out and refinance your house. &#xA0;It&#x2019;s almost assuredly worth looking into. &#xA0;Today, Land Title reports that 78% of loan applications are related to refinancing and with an average 30 year fixed loan hovering around 4.68% the month of July, you could save hundreds of dollars a month on your loan.</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:53 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;October Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_October_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, October 7, 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>October Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Purchase Power&lt;/b&gt;&#xD;Purchasing Power has never been higher, which is great news for sellers and buyers. &#xA0;Whether you&#x2019;re moving up or down, with interest rates continuing to fall in the low fours, you can buy more with your money than ever before. &#xA0;Our office has been sharing this handout to indicate how your purchase power has grown considerably, even over the last six months. &#xA0;I&#x2019;ll let the numbers speak for themselves:&#xD; &#xD;&lt;b&gt;Iphone Apps for Real Estate:&lt;/b&gt;&#xD;Driving by a house and wondering what it costs? &#xA0;Want to see pictures too? &#xA0;Well now you can! &#xA0;Although none of these applications are perfect (data may often be outdated or incomplete), using some of these Iphone apps may help you find a home or get your home sold faster. &#xA0;I use them all the time in my business to help my buyers and sellers.&#xD;&lt;b&gt;	1.	Zillow&lt;/b&gt;- Allows you to email pics of homes to yourself or a friend, but be wary of zillow&#x2019;s estimate values!&#xD;&lt;b&gt;	2.	ZipRealty&lt;/b&gt;- See what homes near you are for sale or have recently sold using GPS.&#xD;	1.	Realtor.com- Updated every 15 minutes, this site has lots of search options and photos which you can view, save and share with your agent!&#xD;&lt;b&gt;	1.	WhereRHomes&lt;/b&gt; &#x2013; Finds homes hear your for sale or rent using your location, only displays up to 25 homes near you.&#xD;&lt;b&gt;	2.	RedFin&lt;/b&gt;- useful app, but not yet available in Denver.&#xD;&lt;b&gt;	1.	StreetEasy Real Estate&lt;/b&gt;- Only for NYC&#xD;&lt;b&gt;	1.	Trulia&lt;/b&gt;- Browse open houses and homes for sale and then see them on a map&#xD;&lt;b&gt;	2.	Homes.com&lt;/b&gt; &#x2013; Great custom searches that allow you to refine your criteria and save it.&#xD;&#xD; &#xD;&lt;b&gt;Conventional Loans:&lt;/b&gt;&#xD;New laws stipulate you must have been on your job at least 6 months before you can qualify for a conventional mortgage- this is news that may affect many buyers, so be prepared to wait to buy! The exception to this rule is if the buyer has been employed for over two years at their previous position.</richText>
+  </textBox>
+</content>

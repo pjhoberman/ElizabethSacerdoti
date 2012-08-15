@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:52:05 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;July Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_July_Real_2011_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, July 5, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>July Real 2011 Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Revamping at 3035 Ivy Street in Park Hill&#xD;&lt;/b&gt;It&#x2019;s true what they say about curb appeal- it makes all the difference in the world!  With brand news landscaping and an unbeatable price of $227,000, this 3 bed, 2 bath home is ready to sell quickly.  It&#x2019;s the best value on the market for North Park Hill.  Check it out at:&#xD;&#xD;&#xD;&#xD;&#xD;&lt;b&gt;The Denver Market in Review:&#xD;&lt;/b&gt;We&#x2019;ve been seeing mostly bearish activity in the market with days on market once again on the rise and prices trending downward for single family homes.  Incredibly, those homes that are put on the market that show well and are priced correctly are still selling in less than 30 days, often with competing offers.  Buyers recognize value more than ever before and will compete to get it. For condos, prices have remained more stable but as inventory continues to grow, we&#x2019;ll see some downward pressure on prices in the coming months.  &#xD;Loans continue to be very challenging to work through, so more time spent with a lender prior to house hunting is absolutely required.  This also means finding the right lender that can provide the level of service to bring the loan to fruition.&#xD;This level of affordability has been unprecedented in the last 20 years of real estate.  I can&#x2019;t stress enough, NOW is the time to buy.&#xD;&lt;b&gt;What is happening in your Denver neighborhood?  Check out this new neighborhood report:&#xD;&lt;/b&gt;&lt;a href="http://fullersothebysrealty.files.wordpress.com/2011/05/may-2011vert_denvermetro_outlines1.pdf"&gt;http://fullersothebysrealty.files.wordpress.com/2011/05/may-2011vert_denvermetro_outlines1.pdf&lt;/a&gt;&#xD;&lt;b&gt;Chasing the Market: How to Price in a Depreciating Market&#xD;&lt;/b&gt;Pricing a home today has never been more crucial.  THe days of starting high and &#x201C;waiting and seeing&#x201D; are the best way to lose money on the eventual sale of your home. How you ask?  Check out this chart to see how &#x201C;chasing the market&#x201D; with price reductions may not work in your favor:&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+</content>

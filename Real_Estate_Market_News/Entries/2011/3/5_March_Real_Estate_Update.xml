@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:57 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;March Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_March_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, March 5, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>March Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;New Listing in Park Hill&#xD;&lt;/b&gt;The picture above shows my new listing in North Park Hill.  Priced at $243,000, this 3 bed, 2 bath home is perfect and move in ready.  On a large lot, this gem boasts 1,630 square foot of extensively remodeled and updated modern living.  A rare master suite with private bath and study have a separate walk out to back yard.  The chef&#x2019;s kitchen is perfect for entertaining.  New plumbing, new roof, fresh paint and hardwood floors- call me if you&#x2019;d like to check it out.  To see more photos, visit:&#xD; &lt;a href="http://www.spotlighthometours.com/tours/tour.cfm?tourid=26280"&gt;http://www.spotlighthometours.com/tours/tour.cfm?tourid=26280&lt;/a&gt;&#xD;&lt;b&gt;FHA Loans- Major Change Coming!&#xD;&#xD;&lt;/b&gt;The monthly mortgage insurance premium required for FHA loans will undergo a significant increase (.25%) for loans given case numbers after April 18, 2011. &#xA0;To put it in perspective, if your loan will be valued at $250,000, this will mean your monthly payment will increase over $50 a month! For some, this will mean that a conventional loan with mortgage insurance will be a better way to go. &#xA0;You may want to consider changing your timeline to purchase if you had considered making a purchase this spring.&#xD;&#xD;&lt;b&gt;The Denver Market in review&#xD;&#xD;&lt;/b&gt;Homes sales have now been exceeding new inventory for several weeks in both the condo and single family market. &#xA0;Market prices have not yet moved higher as excess inventory is moved as it has still been a buyer&#x2019;s market. &#xA0;However, as this trend continues, we will likely see upward pressure on pricing. &#xA0;Currently, the average days on market for a home is 149, for a condo, 181 days. &#xA0;In February in the entire Denver metro area, 1770 homes and 459 condos were sold. &#xD;&#xD;</richText>
+  </textBox>
+</content>

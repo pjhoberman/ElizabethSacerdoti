@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:52:01 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;June Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_June_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, June 1, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>June Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Amazing &#xA0;Value in Lowry&lt;/b&gt;&#xD;The picture above shows my newest listing in Lowry.  Listed at $310,000, this 2 bed, 3 bath home has over 1,859 square feet and is move in ready. &#xA0;It&#x2019;s a townhouse within walking distance of many shops and restaurants in the Lowry town square. &#xA0;It&#x2019;s set on a quite street and is priced to sell fast. &#xA0;&#xD;Check it out at : &lt;a href="http://www.spotlighthometours.com/tours/tour.cfm?tourid=27450"&gt;&#xA0;Lowry Townhome Photos&lt;/a&gt;&lt;a href="http://www.spotlighthometours.com/tours/tour.cfm?tourid=27450"&gt;&#xD;&lt;/a&gt;&#xD;&lt;b&gt;What&#x2019;s Happening in Denver&lt;/b&gt;&#xD;As expected this time of year, Inventory is UP in the market, prices are rising and days on market for both single family homes and condos is still trending lower, however the sales demand is cooling down a bit. &#xA0;This unusual occurrence is largely due to improved quality of homes on the market. &#xA0;I&#x2019;ve certainly seen evidence of this in my business too.&#xD;&#xD;&lt;b&gt;What&#x2019;s in a name?&lt;/b&gt;&#xD;It&#x2019;s always been about location. &#xA0;Now, a 21 year study has proven that its also about the name of your neighborhood or development. &#xA0;According to the Real Estate Journal and the University of Georgia, buyers are willing to pay a premium of 4.2 percent for a property with "country" in the name and an additional 5.1 percent for the phrase "country club," according to new research. &#xA0;This trend has also led to increasingly hilarious names of new developments, which are only getting longer and more ridiculous as they add the words &#x201C;castle&#x201D;, &#x201C;manor&#x201D;, &#x201C;preserve&#x201D;, etc. &#xA0;Don&#x2019;t laugh yet- your next house could be at, &#x201C;the Retreat at the Castle Creek Preserve Bluffs!&#x201D;&#xD;&#xD;&lt;b&gt;Affordability&lt;/b&gt;&#xD;The National Association of Home Builders and Wells Fargo released a study on May 27th indicating that housing affordability is an an all time high in the first quarter of 2011. &#xA0;According to the study, 74.6% of homes sold were affordable for families earning the national median income (~64k) &#xA0;This is the highest level in the last 20 years. &#xA0;With mortgage rates still low, things are quite bright for home buyers, although the difficulties associated with securing that mortgage are still the greatest obstacle for all buyers in the market.</richText>
+  </textBox>
+</content>

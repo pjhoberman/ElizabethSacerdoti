@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:56 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;February Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_February_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, February 1, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>February Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;By the Numbers:&#xD;&lt;/b&gt;Presented by the Denver MLS,  these numbers reflect all neighborhoods in metropolitan Denver and their change between 2009 and 2010.  Although the  number of homes sold has decreased, we&#x2019;ve seen more new listings come on the market during December of this year.  The overall sold price has fallen, yet over 20 other major United States cities, Denver has outperformed most of them.&#xD;&#xD;This data is reflective of the condominium market in Denver.&#xD;&#xD;&#xA0;&#xD;&lt;b&gt;Digital Staging?&#xD;&#xD;&lt;/b&gt;Vacant homes present unique marketing challenges to brokers. &#xA0;For very traditional spaces, sometimes staging isn&#x2019;t necessary. &#xA0;However, as so much of my business revolves around older homes in Denver, I&#x2019;m often confronted with spaces that simply require furniture to help buyers visualize how the space can function. As staging is an expensive endeavor, if you&#x2019;re moving out of your home prior to selling it, consider leaving a few critical pieces of furniture. Statistically, staged homes will always sell better than vacant ones, with few exceptions. If leaving furniture isn&#x2019;t in the cards, the latest technology to hit the real estate market in Denver allows brokers to place digital images of furniture in photos of vacant for marketing purposes. The photos are unbelievably high quality and can be a great way to get your home sold more quickly if you&#x2019;re not there.&#xD;&#xD;&lt;b&gt;The Importance of a Title Company&#xD;&#xD;&lt;/b&gt;In the last year, I&#x2019;ve read a few articles on how title companies have absconded with their client&#x2019;s money prior to the close of a deal.  Title companies are not something that most people ask me about- either when buying or selling a house. &#xA0;When representing a buyer, I always review the title company the seller has requested. &#xA0;If they are not a reputable agency, I will recommend that as part of our contract negotiations, we request a change to a company of our choosing. &#xA0;As a title company insures you against defects in the chain of title, it&#x2019;s critical that buyer&#x2019;s always opt to use a reputable company.&#xD;</richText>
+  </textBox>
+</content>

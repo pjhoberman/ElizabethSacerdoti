@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:52:07 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;September Real Estate Update   &lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_September_2011_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, September 1, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>September 2011 Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;New Listing In West Wash Park!&#xD;&lt;/b&gt;This remodeled Victorian sits on a fabulous corner lot near to both the outdoor amenities of Washington Park and the restaurants and shops of South Broadway.&#xD;Featuring some of the best of urban outdoor living, including a bright, welcoming front porch and garden enclosed with a sandstone retaining wall and wrought iron fence. The backyard enclave is private and warm with room for a fire pit and dining space.&#xD;The three bedrooms are all generous in size and have walk-in closets.  Tall ceilings and a smart floor plan make this home perfect for modern living while preserving historic charm.  &lt;a href="http://www.spotlighthometours.com/tours/tour.php?&amp;tourid=29623&amp;CFID=1148287&amp;CFTOKEN=26544694"&gt;Click Here for Tour and Pictures of 105 S Sherman&lt;/a&gt;&#xD;&lt;b&gt;Founder of Forsalebyowner.com has realtor to sell home!&#xD;&lt;/b&gt;I can&#x2019;t resist this one!  The Wall Street Journal reported on August 3rd that the one-time CEO and Founder of Forsalebyowner.com had to use a realtor to sell his home after several months of unsuccessful efforts to sell it himself.  Score one for the industry!&#xD;&lt;b&gt;Cheaper to Buy?&#xD;&lt;/b&gt;Denver is one of 74% of cities where it is now cheaper to buy than to rent, according to CNN Money.  Using Trulia.com data, the report analyzed unoccupied 2 bedroom condos, town homes and apartments.  The average rent in Denver at $915, while a mortgage payment for a similar property is about $730/month - not included property taxes.  Easy Math!&#xD;&lt;b&gt;Denver Market Report&#xD;&lt;/b&gt;Home sales are remaining on an even keel, but a slight increase in sales has shown a fragile, but consistent raise in home prices which is likely to continue.&#xD;Condo sales are now distinctly exceeding inventory and have been for a few weeks.  While it&#x2019;s still a buyer&#x2019;s market, home prices have been increasing&#xD;&lt;a href="http://www.ltgc.com/files/marketstats/dse.pdf"&gt;Metro Denver Home Sale Statistics- JULY 2011&lt;/a&gt;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+</content>

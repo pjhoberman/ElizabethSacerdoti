@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:59 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;April Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_April_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, April 7, 2011</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>April Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Good vs. Bad Inventory&lt;/b&gt;&#xD;Let&#x2019;s face it- there is a LOT of inventory out there. &#xA0;In some markets, it has broken records. &#xA0;However, inventory is never a good metric to look at- especially in the last year as foreclosures and short sales have dominated the market. &#xA0;&#xD;What this means for sellers: Great homes are great in any market. &#xA0;However, you must absolutely shine when you go on the market. &#xA0;While some of your competition may drive down prices in the neighborhood, to get top dollar you must show buyers VALUE in your home.&#xD;What this means for buyers: &#xA0;Qualify what you want before you go out. &#xA0;Keep re-evaluating what exactly you&#x2019;re looking for. &#xA0;There are thousands of three bed, two bath houses out there, so rather than look at 100 places, allow yourself to hone in on other things you want and don&#x2019;t worry that you&#x2019;re &#x2018;missing&#x2019; inventory. &#xA0;Maybe a garage is necessary for your camping and ski gear? &#xA0;Maybe you really want to be within 5 minutes of the bus stop? &#xA0;Does your dog need a yard with a fence?&#xD;&#xD;&lt;b&gt;The Market for the FSBO&lt;/b&gt;&#xD;Who are the For Sale by Owners? &#xA0;How are their sales? &#xA0;According to nation-wide sales data, 9% of sales were FSBO, showing a continued decrease over time. &#xA0;14% of sales were FSBOs in 2003 and 2004, compared to just 9% in 2010. &#xA0;Over &#x2153; of FSBO sales were to family or friends. &#xA0;The typical FSBO home sold for $140,000 compared to $199,300 for agent-assisted home sales.&#xD;&#xD;&lt;b&gt;Denver- Market in Review&lt;/b&gt;&#xD;March saw more supply coming to the market relative to the sales demand. &#xA0;However, prices have been moving higher. &#xA0;This trend may be the result of improved quality of homes being listed as we are still in a buyer&#x2019;s market. &#xA0;Median List price for a home in Denver rests at $225,000, for a condo, median list price is $178,000.&#xD;&#xD;&lt;b&gt;Most Expensive House in US- SOLD!&lt;/b&gt;&#xD;The most expensive one family hold ever sold in the United States was purchased last month for $100 million dollars. &#xA0;Located in Los, Altos, CA, the 11 acre home has 5 bedrooms and 9 baths and resembles a french chateau. &#xA0;Don&#x2019;t worry though, it&#x2019;s a steal at $3,921 per square foot! &#xA0;It that doesn&#x2019;t say, &#x2018; market rebound&#x2019;, I don&#x2019;t know what does.</richText>
+  </textBox>
+</content>

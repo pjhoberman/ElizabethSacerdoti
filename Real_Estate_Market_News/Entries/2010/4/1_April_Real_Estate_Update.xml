@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:48 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;April Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_April_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="299px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, April 1, 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>April Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dear Friends,&#xD;Spring fever has definitely hit with the arrival of warm beautiful weather.&#xA0;&#xA0;This change in the air has seemed to bring a few new things back to the real estate market as well.&#xA0;&#xA0;Inventory has been picking up considerably in the market and there is quite a bit of momentum building &#x2013; homes that are well priced and show nicely are starting to sell and I&#x2019;ve had several scenarios with multiple offer situations on homes that had sat for lengthy periods of time.&#xA0;&#xA0;What this means is that buyers are starting to find more properties that may fit their needs, but are needing to move on them quickly.&#xA0;&#xA0;Sellers are starting to regain confidence as well and this is beginning to reflect in many more showings and a lot more interest.&#xA0;&#xA0;&#xA0;Many in the industry are predicting a strong start in the spring and summer months and renewed stability in the Denver market.&#xD;Landscaping: Thoughts&#x2028;&#xD;You don&#x2019;t have to live in Denver long to notice that despite our love of the outdoors there are more than a few people out there who don&#x2019;t have a green thumb.&#xA0;&#xA0;Fair enough, but curb appeal is so critical to the sale of your home that you need to spend some time out there weeding your beds, planting a few annuals and maintaining your front yard.&#xA0;&#xA0;This also extends to touching up any paint that has cracked on your trim and washing windows.&#xA0;&#xA0;If you need any motivation, stop over at my house, I&#x2019;ve been replacing the soffit of my own front porch for the last few weeks.&#xA0;&#xA0;Its also a wonderful way to get to know your neighbors better and let them know you&#x2019;ll be putting your home on the market soon.&#xA0;&#xA0;People have strong reactions to the curb appeal of your home and a few well landscaped areas may well be what it takes to get your home sold quickly.&#x2028;&#xD;Spring Cleaning!&#x2028;&#xD;Recently, I&#x2019;ve fielded a lot of questions about what projects make the most sense to get your home ready to sell.&#xA0;&#xA0;One of the first things I like to encourage is to&#xA0;Clean Thoroughly- this is more important than almost anything else.&#xA0;&#xA0;Even if you are an extremely tidy person, there are things you miss in your day to day cleaning routine that I recommend either attending to these items or bringing in an professional for a day ( about $250) to get you in show-ready condition.&#xA0;&#xA0;Keep in mind your home will be in competition with professionally staged and vacant homes that are almost always in perfect condition.&#x2028;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="497EA2E1-56EC-4799-BAAF-D11A377D9038">
+  <lastEdited clientType="local-build-20120814" date="2012-08-15 02:51:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;i&gt;May Real Estate Update&lt;/i&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="3_May_Real_Estate_Update_files/shapeimage_2.png" left="0px" top="0px" width="400px" height="300px"/>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, May 3, 2010</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>May Real Estate Update</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;End of the Tax Credit: What Will Happen Next?&#xD;&lt;/b&gt;&#xA0;&#xD;There has been a lot of speculation in my industry about whether or not the market will be affected now that the first time buyer tax credit has expired.&#xA0; According to a Rismedia study, consumer confidence remains high in the real estate market with over 65% of those polled saying the end of the credit will not affect their decision to buy a home.&#xA0; Even more important, this study found that 46% of people felt the real estate values in their neighborhood would increase in the next year.&#xA0; With the possibility of increasing mortgage rates and unemployment still looming, truly only time will tell.&#xA0; However, I&#x2019;ve found the start of summer to be tremendously busy time for my office with many new listing and new buyers entering the market at rates we haven&#x2019;t seen in several years.&#xD;&#xA0;&#xD;&lt;b&gt;Forbes Magazine: Talking Trash About Denver?&lt;/b&gt;&#xD;&#xD;April 5th was a shocking day in the Denver real estate world.&#xA0; Forbes Magazine published an unflattering report on the Denver real estate market only to be met with harsh criticism from a wide number of Denverites- from Mayor John Hickenlooper to the entire real estate community.&#xA0; Essentially, the article relied extensively on information provided by Zillow which proved to be grossly inaccurate due to double counting in Zillow&#x2019;s statistics of unsold homes.&#xA0; As a result, Forbes has retracted their statement and said they will no longer rely on Zillow&#x2019;s inventory data.&#xA0; Take That!&#xD;	&#xD;&lt;b&gt;New Listing in Denver!&lt;/b&gt;&#xD;&#xD;$250,000, 4 bed, 1 bath, 2008 square feet&#xD;&#xD;Completely remodeled in 2005, this charming bungalow has lots to offer! The home is open and light with a modern granite-tiled kitchen and lovely renovated bathroom. Over 2,000 finished square feet make this home a rare find in City Park and the main living area is ideal for entertaining.&#xA0; There are two fireplaces, one in the living room and one in the family room. The backyard is landscaped beautifully, and the home sits on a large 6,280 square foot lot with tons of gardening and outdoor entertaining space. The basement is fully finished and gorgeous. Everything is freshly painted and modernized.&#xA0; &#xD;&#xD;Call Elizabeth for more information.&#xD;&#xD;&#xD;</richText>
+  </textBox>
+</content>
